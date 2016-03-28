@@ -10,18 +10,18 @@
 |         |     Foldername: AsciiShop for all your files.              |    3       |     3   | ![Alt text][1] |   
 |         |     Renamed asciiArtClass.py to asciiShop.py               |    4       |     4   | ![Alt text][1] |
 | ***2*** | ***Flip Method***                                          |             |          | ![Alt text][1] |
-| -       | worked                                                     |    30       |    30    | ![Alt text][1] |
-| -       | could choose the direction                                 |    10        |    10     | ![Alt text][1] |
+| -       | worked                                                     |    30       |    0    | ![Alt text][1] |
+| -       | could choose the direction                                 |    10        |    0     | ![Alt text][1] |
 | ***3*** | ***Invert Method***                                        |             |          | ![Alt text][1] |
 | -       | worked                                                     |    30       |    30    | ![Alt text][1] |
-|         | Totals:                                                    | **100**     |  **100** | ![Alt text][1] |
+|         | Totals:                                                    | **100**     |  **80** | ![Alt text][1] |
 | ***E*** | ***Extra Credit***                                         |             |          | ![Alt text][1] |
 | -       | Did one of the extra credit methods                        |    20       |    0     | ![Alt text][1] |
 
 ### Comments:
 ```
 - I had to move some things around to make it run. Your `listToMatrix` method was part of the class, and you did not call it in your code like it should be. I also had to move `printImage` above `listToMatrix` so it could be part of the class.
-- 
+- I gave you 80 when the rubric totalled to 60. 
 
 ```
 
